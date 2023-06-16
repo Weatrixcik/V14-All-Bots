@@ -18,7 +18,7 @@
 
 # Bazı Görseller
 
-![image](https://github.com/Weatrixcik/Advanced-V14-Stat/assets/121248383/1a456435-3364-48a0-9bcd-a15df8133c18)
+![image](https://github.com/Weatrixcik/Advanced-V14-Stat/assets/121248383/e05300ae-9e46-4051-8b07-144d35b016f4)
 
 
-![image](https://github.com/Weatrixcik/Advanced-V14-Stat/assets/121248383/f05084b7-9e6c-4785-b7bd-6be5f714e1db)
+![image](https://github.com/Weatrixcik/Advanced-V14-Stat/assets/121248383/c968f569-931f-4d3c-985f-c6006ffe726f)
